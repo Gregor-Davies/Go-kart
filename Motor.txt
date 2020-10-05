@@ -1,0 +1,4 @@
+Motor Specs:
+
+13 AMPS
+24v
