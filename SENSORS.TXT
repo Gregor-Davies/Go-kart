@@ -1,0 +1,4 @@
+One heat sensor before the heatsink (On motor)
+One heat sensor on the heatsink
+Current draw
+
