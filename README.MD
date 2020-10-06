@@ -1,4 +1,4 @@
-Go Kart Telemtry using esp32/LoRA and python.
+Go Kart Telemtry using esp32/LoRA and python (And a bit of c++!).
 
 
 Dependencies:
