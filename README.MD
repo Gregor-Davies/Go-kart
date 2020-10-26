@@ -12,4 +12,4 @@ Dependencies:
 - PySerial
 
 
-© Gregor Davies & Slawrie 2020 Licensed under the MIT License
+© Gregor Davies & Struan 2020 Licensed under the MIT License
