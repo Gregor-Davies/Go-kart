@@ -1,1 +1,3 @@
 Parts list (All parts should have ideally amazon.co.uk or ebay.co.uk links)
+
+Power Sensor: https://www.amazon.co.uk/YOUMILE-Bi-direction-Current-Breakout-MCU-219/dp/B07TYNBSLR/ref=sr_1_2?dchild=1&keywords=INA219&qid=1603727609&sr=8-2
