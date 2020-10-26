@@ -1,6 +1,6 @@
 Parts list (All parts should have ideally amazon.co.uk or ebay.co.uk links)
 
-Current Sensor: https://www.amazon.co.uk/AZDelivery-ACS712-Current-Measuring-Arduino/dp/B07CMXFS13/ref=sr_1_3?dchild=1&keywords=arduino%2Bcurrent%2Bsensor%2B40A&qid=1603732250&sr=8-3&th=1
+Current Sensor: https://amzn.to/34rSaYu
 Heat Sensors: amzn.to/2J0Se9e
 Speed Sensor: https://amzn.to/3ow2Ixw
 2 X ESP32 LoRA: https://amzn.to/2Hxcxui
