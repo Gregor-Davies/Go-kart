@@ -1,6 +1,6 @@
-One heat sensor before the heatsink (On motor)
-One heat sensor on the heatsink
-Current draw sensor (With specs of motor and better)
+One heat sensor before the heatsink (On motor) (Done)
+One heat sensor on the heatsink (Done)
+Current draw sensor (With specs of motor and better) (Done)
 Speed sensor
 
 
