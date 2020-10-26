@@ -2,3 +2,4 @@ Parts list (All parts should have ideally amazon.co.uk or ebay.co.uk links)
 
 Current Sensor: amzn.to/3jwlMrK
 Heat Sensors: amzn.to/2J0Se9e
+speed sensors: https://www.amazon.co.uk/Youmile-Measuring-Optocoupler-Interrupter-Detection/dp/B0817FM4BJ/ref=sr_1_3?dchild=1&keywords=speed+sensor+arduino&qid=1603728564&sr=8-3
