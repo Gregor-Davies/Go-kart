@@ -3,3 +3,4 @@ Parts list (All parts should have ideally amazon.co.uk or ebay.co.uk links)
 Current Sensor: amzn.to/3jwlMrK
 Heat Sensors: amzn.to/2J0Se9e
 Speed Sensor: https://amzn.to/3ow2Ixw
+ESP32 LoRA: https://amzn.to/2Hxcxui
