@@ -1,5 +1,4 @@
 Parts list (All parts should have ideally amazon.co.uk or ebay.co.uk links)
 
-Current Sensor: https://www.amazon.co.uk/YOUMILE-Bi-direction-Current-Breakout-MCU-219/dp/B07TYNBSLR/ref=sr_1_2?dchild=1&keywords=INA219&qid=1603727609&sr=8-2
-
-Heat Sensors: https://www.amazon.co.uk/Digital-Temperature-Ds18B20-Stainless-Accurate/dp/B07TKTFKMW/ref=sr_1_1?crid=1U5PQTW164XWV&dchild=1&keywords=arduino+heat+sensor&qid=1603727833&sprefix=heat+sensors+arduino%2Caps%2C156&sr=8-1
+Current Sensor: amzn.to/3jwlMrK
+Heat Sensors: amzn.to/2J0Se9e
