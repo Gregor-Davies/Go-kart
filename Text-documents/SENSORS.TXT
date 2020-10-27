@@ -1,6 +1,6 @@
-One heat sensor before the heatsink (On motor) (Done)
-One heat sensor on the heatsink (Done)
-Current draw sensor (With specs of motor and better) (Done)
-Speed sensor
+One heat sensor before the heatsink (On motor) (Done) - This would be graphed using a normal graph.
+One heat sensor on the heatsink (Done) - This would be graphed using a normal graph.
+Current draw sensor (With specs of motor and better) (Done) - This would be graphed using a normal graph.
+Speed sensor - This will be graphed with a speedometer.
 
 
