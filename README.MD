@@ -9,7 +9,7 @@ Contributors are welcome!
 
 Python dependencies:
 - MatplotLIB (For graphing)
-- PySerial
+- PySerial (For getting the data off the esp32)
 - Tkinter
 
 
