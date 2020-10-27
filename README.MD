@@ -10,7 +10,7 @@ Contributors are welcome!
 Python dependencies:
 - MatplotLIB (For graphing)
 - PySerial (For getting the data off the esp32)
-- Tkinter
+- Tkinter (For the gui controller)
 
 
 © Gregor Davies & Struan 2020 Licensed under the MIT License
