@@ -8,8 +8,9 @@ Contributors are welcome!
 
 
 Python dependencies:
-- MatplotLIB
+- MatplotLIB (For graphing)
 - PySerial
+- Tkinter
 
 
 © Gregor Davies & Struan 2020 Licensed under the MIT License
