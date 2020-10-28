@@ -1,1 +1,4 @@
-
+Pitstop button
+Stop graphing button
+Exit button
+Start Race/End Race
