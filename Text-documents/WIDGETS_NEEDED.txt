@@ -1,4 +1,11 @@
+Buttons:
 Pitstop button
 Stop graphing button
 Exit button
 Start Race/End Race
+
+Optional:
+Dark mode (For my eyes)
+
+Other widgets:
+All the graph 
