@@ -1,5 +1,5 @@
 Buttons:
-Pitstop button
+Pitstop button - Partially done just waiting for the hud bit.
 Stop graphing button
 Exit button
 Start Race/End Race
