@@ -1,16 +1,18 @@
 Buttons:
-Pitstop button - Partially done just waiting for the hud bit.
-Stop graphing button
-Exit button
-Start Race/End Race
+Pitstop button. - Partially done just waiting for the hud bit.
+Stop graphing button.
+Exit button.
+Start Race/End Race.
+Save all the graphs.
 
 Optional:
 Dark mode (For my eyes)
 
 Other widgets:
-Elapsed time
-All the graphs
-Battery left
+Elapsed time.
+All the graphs.
+Battery left.
+Speedomter.
 
 Optional:
-Where the car is on the race track
+Where the car is on the race track.
