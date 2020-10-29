@@ -1,7 +1,7 @@
 Buttons:
 Pitstop button. - Partially done just waiting for the hud bit.
 Stop graphing button.
-Exit button.
+Exit button. - Done.
 Start Race/End Race.
 Save all the graphs.
 
