@@ -8,4 +8,9 @@ Optional:
 Dark mode (For my eyes)
 
 Other widgets:
-All the graph 
+Elapsed time
+All the graphs
+Battery left
+
+Optional:
+Where the car is on the race track
