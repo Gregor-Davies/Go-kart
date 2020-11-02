@@ -13,4 +13,4 @@ Python dependencies:
 - Tkinter (For the gui controller)
 
 
-© Gregor Davies & Struan Lawrie 2020 Licensed under the MIT License
+© Gregor Davies, Struan Lawrie & Misha Agakov 2020 Licensed under the MIT License
