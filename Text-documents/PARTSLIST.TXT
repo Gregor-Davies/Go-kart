@@ -3,6 +3,6 @@ Parts list (All parts should have ideally amazon.co.uk or ebay.co.uk links)
 Current Sensor: https://amzn.to/34rSaYu - £8.49
 Heat Sensors: amzn.to/2J0Se9e - £6.99
 Speed Sensor: https://amzn.to/3ow2Ixw - £4.69
-2 X ESP32 LoRA: https://amzn.to/2Hxcxui - £41.06
+2 X ESP32 LoRA: https://amzn.to/2Hxcxui - £41.16
 
 total - £61.33
