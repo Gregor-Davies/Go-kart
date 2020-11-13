@@ -12,6 +12,7 @@ Python dependencies:
 - MatplotLIB (For graphing)
 - PySerial (For getting the data off the esp32)
 - Tkinter (For the gui controller)
+- Datetime (For the timer)
 
 
 © Gregor Davies, Struan Lawrie & Misha Agakov 2020 Licensed under the MIT License.
