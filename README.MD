@@ -14,5 +14,7 @@ Python dependencies:
 - Tkinter (For the gui controller)
 - Datetime (For the timer)
 
+C/C++ (Arduino) dependencies:
+
 
 © Gregor Davies, Struan Lawrie & Misha Agakov 2020 Licensed under the MIT License.
