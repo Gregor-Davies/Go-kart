@@ -15,7 +15,7 @@ Python dependencies:
 - Datetime (For the timer)
 
 C/C++ (Arduino) dependencies:                                                                                                                                 
-       **Board Dependencies:**
+           **Board Dependencies:**                                                                                                                           
                 - http://resource.heltec.cn/download/package_heltec_esp32_index.json (Paste this in the additional boards manager in the Arduino IDE.)
 
 -then search in boards manager for Heltec ESP32
