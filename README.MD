@@ -24,7 +24,4 @@ Libraries needed for Arduino IDE:
 
 -Heltec ESP32 DEV-boards (in library manager)
 
-©
-
-
 © Gregor Davies, Struan Lawrie & Misha Agakov 2020 Licensed under the MIT License.
