@@ -1,4 +1,4 @@
-# Required libaries.
+# Required libraries.
 # This is for the gui.
 import tkinter as tk
 # This is for the timer.
