@@ -3,7 +3,7 @@
 
 
 
-Telemtry (Mainly goint to be used in a go-kart) using esp32/LoRA and python (And a bit of c++ & c).
+Telemtry (Mainly going to be used in a go-kart) using esp32/LoRA and python (And a bit of c++ & c).
 
 Contributors are welcome!
 
