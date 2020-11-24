@@ -16,8 +16,8 @@ Python dependencies:
 
 C/C++ (Arduino) dependencies:                                                                                                                               
                **Board Dependencies:**                                                                                                                   
-                  - http://resource.heltec.cn/download/package_heltec_esp32_index.json (Paste this in the additional boards manager in the Arduino IDE.)
-                  - Heltec ESP32 (This can be added by searching.)
-               **Libraries:**
-                  - Heltec ESP32 DEV-Boards (This can be found in the 
+                  - http://resource.heltec.cn/download/package_heltec_esp32_index.json (Paste this in the additional boards manager in the Arduino IDE.)                           
+                  - Heltec ESP32 (This can be added by searching.)                                                                                                                 
+               **Libraries:**                                                                                                                                                       
+                  - Heltec ESP32 DEV-Boards (This can be found in the library manager.)                                                                                             
 © Gregor Davies, Struan Lawrie & Misha Agakov 2020 Licensed under the MIT License.
