@@ -1,1 +1,1 @@
-All the text documents (Including Part lists)
+All the text documents (Including Parts lists)
