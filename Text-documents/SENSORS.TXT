@@ -4,3 +4,10 @@ Current draw sensor (With specs of motor and better) (Done) - This would be grap
 Speed sensor - This will be graphed with a speedometer.
 
 
+Sensors which might be nice to add:
+
+Tilt Switch Sensor
+Strain Gauge
+
+
+
