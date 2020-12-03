@@ -8,6 +8,9 @@ Sensors which might be nice to add:
 
 Tilt Switch Sensor
 Strain Gauge
+Tire Temprature Sensors
+Tire Pressure Sensors
+Gyro Sensors
 
 
 
