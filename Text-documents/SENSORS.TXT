@@ -10,7 +10,8 @@ Tilt Switch Sensor
 Strain Gauge
 Tire Temprature Sensors
 Tire Pressure Sensors
-Gyro Sensors
+Gyro Sensor
+Gyro sensor in the steering wheel.
 
 
 
