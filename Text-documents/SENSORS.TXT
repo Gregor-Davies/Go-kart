@@ -11,7 +11,8 @@ Strain Gauge
 Tire Temprature Sensors
 Tire Pressure Sensors
 Gyro Sensor
-Gyro sensor in the steering wheel.
+Gyro sensor in the steering wheel. (This would have a 3d simulation in the gui)
+Braking sensors.
 
 
 
