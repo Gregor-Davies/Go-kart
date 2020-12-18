@@ -4,3 +4,5 @@ Special thanks to ornotermes on thingiverse for creating the 3d model for the es
 (https://www.thingiverse.com/thing:3125854)
 
 The base camp case for esp32 looks like this:
+![ESP32 Base Camp Case](https://img.fastsrv.io/xkeiy0.png)
+
