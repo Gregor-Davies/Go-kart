@@ -1,0 +1,81 @@
+.icon {
+   color: #eb1363;
+   align-items: center;
+   float: left;
+   clear: left;
+   margin-right: 10px;
+}
+
+.text {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    align-items: center;
+}
+
+.one {
+    margin-top: 30px;
+}
+
+.two {
+    margin-top: 30px;
+}
+
+.three {
+    margin-top: 30px;
+}
+
+.four {
+    margin-top: 30px;
+}
+
+.packet {
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 140px;
+}
+
+.container {
+    min-width: 800px;
+    max-height: 400px;
+    min-height: 400px;
+    max-width: 800px;
+    box-shadow: 1px 1px 10px #ccc;
+    padding: 15px;
+    border-radius: 25px;
+    background-color: #fff;
+    position: relative;
+    text-align: left;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+span {
+    font-size: 10px;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+sup {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 8px;
+}
+
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: url(graident.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
